@@ -1,0 +1,9 @@
+train: LettuceMOT/images/train/ 
+val:  LettuceMOT/images/val/
+test: LettuceMOT/images/test/
+
+# number of classes
+nc: 1
+
+# class names
+names: ["lettuce"]
